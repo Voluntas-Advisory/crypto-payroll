@@ -7,7 +7,7 @@ Employees are opting to recieve their salaries in cryptocurrencies such as Bitco
 In addition to faster, cheaper, and more secure payments, crypto allows access to a pool of talent that can do business unencumbered by local banking regulations and currency exchange fees.
 
 # Volatility
-Cryptocurrencies are volatile due to their speculative nature as an asset, in that they have nothing backing them but electricity and hope.  However, organizations can avoid that volatility by holding assets in stablecoins such as USDT, USDC, UST, and others.  The name implies that these coins remain stable by being pinned to the US Dollar, so they can be used as a hedge to avoid loss (or gain) of value.  Stablecoins can be converted to other cryptocurrencies as needed, or can be sent from wallet to wallet.
+Cryptocurrencies are volatile due to their speculative nature as an asset, in that they have nothing backing them but electricity and hope.  However, organizations can avoid that volatility by holding assets in stablecoins such as USDT, USDC, UST, and others.  The name implies that these coins remain stable by being pinned to national currencies, so they can be used as a hedge to avoid loss (or gain) of value, avoiding capital gains tax in the process.  You also won't need to know what the price of the cryptocurrency was when the payment was made.  Stablecoins can be converted to other cryptocurrencies as needed, or can be sent from wallet to wallet.
 
 # Tax Implications
 Crypto is still in the legal gray area in many parts of the world, but many countries have given the green light to organizations to fully embrace blockchain platforms as replacements for Tradfi, or traditional finance platforms.  Even with the ambiguities in crypto's taxation status, there are still ways for companies to pay their employees and stay compliant.
@@ -20,8 +20,11 @@ The most basic method for paying employees in crypto is simply having the employ
 * **Deel** - https://www.letsdeel.com/ - allows companies to onboard global talent and put them on payroll compliant with local laws
 * **BitWage** - https://www.bitwage.com/ - crypto-focused solution supporting tradfi options and stablecoin (USDC) payouts
 * **PapayaGlobal** - https://papayaglobal.com/ - allows percentage of salary to be paid in crypto, which allows compliance while regulating employees' salary allocation 
+* **Gilded Finance** - https://gilded.finance/stablecoin-payments - allows stablecoin mass payments
+
 
 # Invoicing
 * Blocknomics - https://www.blockonomics.co/invoicecreate/# - simple bitcoin invoicing solution
 * PaymentX - https://paymentx.io/ - create personalized crypto invoices, manage transaction history, and set up recurring invoices.
 
+![Payroll Methods Compared] (https://lh4.googleusercontent.com/fePiABABERQJe3wUpPrTyE8Sfwp3yw2kTQzGTPlCTTGLVgHR9aOWzja3EaaZchFhN0cl0cY05Ff0DMtoZZuixmnm2bMaGXJB-KLMebvJaKgEwdG3zIOTSV52yjluddBk10-VGmE0)
